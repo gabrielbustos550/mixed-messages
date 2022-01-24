@@ -5,4 +5,14 @@ const messages = {
     conclusion: ['!', '.', '!!!!']
 }
 
-console.log(messages)
+const randomIndex = () => {
+   let randomNumber = Math.floor(Math.random() * 3)
+   return randomNumber
+}
+
+console.log(randomIndex())
+
+const fortuneTeller = (obj) => {
+    console.log('Fortune teller')
+}
+
