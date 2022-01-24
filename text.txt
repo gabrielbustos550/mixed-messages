@@ -1,0 +1,17 @@
+Message Generator Program 
+
+Everytime a user runs a program, they will get a new, randomized output
+
+
+
+To Do:
+
+User runs program and a quote is returned. 
+
+This quote comes from a list of different quotes.
+
+The quote must be random. 
+
+Multiple strings must be output together.
+
+Fortune teller 
